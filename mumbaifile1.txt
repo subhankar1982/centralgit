@@ -1,1 +1,2 @@
 test file to learning GIT
+adding a new line
